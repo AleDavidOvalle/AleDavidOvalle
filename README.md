@@ -15,52 +15,54 @@ Lifetime gamer and music enjoyer.
 I'm looking to grow, learn, and contribute to real-world projects while becoming the best version of myself.
 
 ---
-
 ## 🚀 Technical Skills
 
-### **Languages**
+### 🧠 Languages
 
-* JavaScript
-* TypeScript
-* C#
-* SQL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### **Frameworks**
+### 🖥️ Frameworks
 
-* Angular
-* Node.js / Express
-* .NET
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node-dot-js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dot-net\&logoColor=white)
 
-### **Databases**
+### 🗄️ Databases
 
-* PostgreSQL
-* Supabase
-* SQL Server
-* MySQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoft-sql-server\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### **Dev Tools**
+### 🛠️ Dev Tools
 
-* Git / GitHub
-* Docker (Basic)
-* Power BI (Basic)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=power-bi\&logoColor=black)
 
-### **Architecture & Design**
+### 🏗️ Architecture & Design
 
-* Design Patterns (Mediator, Builder, Factory, Singleton, etc.)
-* REST APIs
-* MVC
-* Microservices (Basic)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF7F50?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00AABB?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-8A2BE2?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-FF8C00?style=for-the-badge)
 
-### **Cloud**
+### ☁️ Cloud
 
-* AWS (EC2, SSH keys)
-* Google Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 
-### **Others**
+### 🧾 Others
 
-* Systems Documentation
-* Basic Security
-* Portfolio Web Design
+![Documentation](https://img.shields.io/badge/Systems_Documentation-008080?style=for-the-badge)
+![Security](https://img.shields.io/badge/Basic_Security-DC143C?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio_Web_Design-20B2AA?style=for-the-badge)
+
 
 ---
 
