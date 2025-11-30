@@ -150,16 +150,7 @@ Visual analytics of pilot metrics, positions, and performance.
 ---
 
 <div align="center">
-  <i>Always learning. Always building. Always leveling up.</i>
+  <i>Cause freedom is a lonely road, We're under control.</i>
 </div>
 
-## 📫 Contact Me
 
-* **Email:** [alejandrodovalle@gmail.com](mailto:alejandrodovalle@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/aledavidovalle/](https://www.linkedin.com/in/aledavidovalle/)
-
----
-
-<div align="center">
-  <i>Always learning. Always building. Always leveling up.</i>
-</div>
