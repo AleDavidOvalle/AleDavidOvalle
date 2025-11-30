@@ -104,11 +104,12 @@ Visual analytics of pilot metrics, positions, and performance.
 </div>
 
 ---
-
 ## 🎧 My Music – Apple Music Playlist
 
 <div align="center">
-[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/co/playlist/factos/pl.u-b3b8Vd4c330yP5P)
+<a href="https://music.apple.com/co/playlist/factos/pl.u-b3b8Vd4c330yP5P" target="_blank">
+  <img src="https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white" alt="Apple Music">
+</a>
 </div>
 
 ---
@@ -118,19 +119,25 @@ Visual analytics of pilot metrics, positions, and performance.
 ### **Steam**
 
 <div align="center">
-[![Steam](https://img.shields.io/badge/Steam-0a1b2a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198278200961/)
+<a href="https://steamcommunity.com/profiles/76561198278200961/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-0a1b2a?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+</a>
 </div>
 
 ### **Discord**
 
 <div align="center">
-![Discord](https://img.shields.io/badge/the_alo-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://discord.com/users/the_alo" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-the_alo-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 </div>
 
 ### **Instagram**
 
 <div align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alemanueldavid/)
+<a href="https://www.instagram.com/alemanueldavid/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 </div>
 
 ---
