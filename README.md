@@ -8,13 +8,14 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I'm **Alejandro**, a Systems Engineering student passionate about web development, software architecture, and elegant, well‑structured solutions.
+Hi, I'm **Alejandro**, a Systems Engineering student passionate about web development, software architecture, and elegant, well-structured solutions.
 I work with **Angular**, **Node.js/Express (my preferred backend stack)**, SQL/NoSQL databases, and I love applying design patterns to write code that *smells good*.
 Lifetime gamer and music enjoyer.
 
 I'm looking to grow, learn, and contribute to real-world projects while becoming the best version of myself.
 
 ---
+
 ## 🚀 Technical Skills
 
 ### 🧠 Languages
@@ -63,7 +64,6 @@ I'm looking to grow, learn, and contribute to real-world projects while becoming
 ![Security](https://img.shields.io/badge/Basic_Security-DC143C?style=for-the-badge)
 ![Portfolio](https://img.shields.io/badge/Portfolio_Web_Design-20B2AA?style=for-the-badge)
 
-
 ---
 
 ## 🎓 Certifications
@@ -99,11 +99,8 @@ Visual analytics of pilot metrics, positions, and performance.
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=AleDavidOvalle&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleDavidOvalle&layout=compact&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
@@ -111,9 +108,7 @@ Visual analytics of pilot metrics, positions, and performance.
 ## 🎧 My Music – Apple Music Playlist
 
 <div align="center">
-
-[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge\&logo=applemusic\&logoColor=white)](https://music.apple.com/co/playlist/factos/pl.u-b3b8Vd4c330yP5P)
-
+[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/co/playlist/factos/pl.u-b3b8Vd4c330yP5P)
 </div>
 
 ---
@@ -123,17 +118,13 @@ Visual analytics of pilot metrics, positions, and performance.
 ### **Steam**
 
 <div align="center">
-
-[![Steam](https://img.shields.io/badge/Steam-0a1b2a?style=for-the-badge\&logo=steam\&logoColor=white)](https://steamcommunity.com/profiles/76561198278200961/)
-
+[![Steam](https://img.shields.io/badge/Steam-0a1b2a?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198278200961/)
 </div>
 
 ### **Discord**
 
 <div align="center">
-
-![Discord](https://img.shields.io/badge/the_alo-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
-
+![Discord](https://img.shields.io/badge/the_alo-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 </div>
 
 ### **Instagram**
@@ -142,8 +133,18 @@ Visual analytics of pilot metrics, positions, and performance.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alemanueldavid/)
 </div>
 
+---
+
+## 📫 Contact Me
+
+* **Email:** [alejandrodovalle@gmail.com](mailto:alejandrodovalle@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/aledavidovalle/](https://www.linkedin.com/in/aledavidovalle/)
 
 ---
+
+<div align="center">
+  <i>Always learning. Always building. Always leveling up.</i>
+</div>
 
 ## 📫 Contact Me
 
