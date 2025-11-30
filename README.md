@@ -54,6 +54,7 @@ I'm looking to grow, learn, and contribute to real-world projects while becoming
 ### **Cloud**
 
 * AWS (EC2, SSH keys)
+* Google Cloud
 
 ### **Others**
 
